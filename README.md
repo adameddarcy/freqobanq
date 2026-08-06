@@ -20,3 +20,11 @@ interface Trade {
   { "id": "T-1005", "quantity": 10, "speed": 0.000000728, "profit": -0.85 }
 ]
 ```
+# Question
+
+Given a list of trade objects.
+Write a feature that calculates the 
+1. total profit
+2. avg profit
+3. total speed
+4. avg speed
